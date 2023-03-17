@@ -1,1 +1,5 @@
-no code no pain
+
+playing with 'git add -i'
+123
+321
+456
